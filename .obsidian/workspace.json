@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "15e27a3e045e1826",
+    "type": "split",
+    "children": [
+      {
+        "id": "567b05827891d89a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fb2b9bc09ff42d5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65394913adc8f0d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a0de1d0f3feceb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f21ef99194ffef0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b4ff1ee688b0e182",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d8b3568bbbc1df21",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "73fc8e0b68ad7cc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c59173370f1bcc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55c31504e2421729",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7fefa31901ed4290",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ae8262cf4fc4ccb6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b0bf89782bb44e0e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6fb2b9bc09ff42d5",
+  "lastOpenFiles": [
+    "Numerical Linear Algebra/PLU Decomposition.md",
+    "Entrepreneurship/Frameworks for Identifying Market Opportunities.md",
+    "Competitive Programming/Dynamic Programming.md",
+    "Competitive Programming/Graphs.md",
+    "Entrepreneurship/New Market Framework.md",
+    "Entrepreneurship/Job To Be Done Framework.md",
+    "Entrepreneurship/Disruption.md",
+    "Entrepreneurship/Effectual Thinking vs Causal Thinking.md",
+    "Entrepreneurship/Low-End Market Framework.md",
+    "Numerical Linear Algebra/LU Decomposition.md",
+    "Numerical Linear Algebra/Methods of Solving a System of Linear Equations.md",
+    "Competitive Programming",
+    "Numerical Linear Algebra",
+    "Machine Learning",
+    "Real Analysis",
+    "Entrepreneurship"
+  ]
+}
