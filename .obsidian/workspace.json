@@ -23,16 +23,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entrepreneurship/New Market Framework.md",
+                "file": "Numerical Linear Algebra/PLU Decomposition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New Market Framework"
+              "title": "PLU Decomposition"
+            }
+          },
+          {
+            "id": "2f2712f2b24e0b8a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Numerical Linear Algebra/PLU Decomposition notes.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "PLU Decomposition notes"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,23 +179,26 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c8ef16b448acd7fe",
+  "active": "2f2712f2b24e0b8a",
   "lastOpenFiles": [
+    "Numerical Linear Algebra/PLU Decomposition.md",
+    "Numerical Linear Algebra/PLU Decomposition notes.md",
+    "Competitive Programming/Dynamic Programming.md",
+    "Competitive Programming/Graphs.md",
+    "Excalidraw",
+    "Numerical Linear Algebra/LU Decomposition.md",
     "Entrepreneurship/New Market Framework.md",
     "conflict-files-obsidian-git.md",
     "Readme.md",
-    "Numerical Linear Algebra/PLU Decomposition.md",
     "Entrepreneurship/Frameworks for Identifying Market Opportunities.md",
-    "Competitive Programming/Dynamic Programming.md",
-    "Competitive Programming/Graphs.md",
     "Entrepreneurship/Job To Be Done Framework.md",
     "Entrepreneurship/Disruption.md",
     "Entrepreneurship/Effectual Thinking vs Causal Thinking.md",
     "Entrepreneurship/Low-End Market Framework.md",
-    "Numerical Linear Algebra/LU Decomposition.md",
     "Numerical Linear Algebra/Methods of Solving a System of Linear Equations.md",
     "Competitive Programming",
     "Numerical Linear Algebra",

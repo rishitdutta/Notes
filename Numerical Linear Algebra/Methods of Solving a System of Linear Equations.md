@@ -1,3 +1,3 @@
 - [[LU Decomposition]]
-- [[PLU Decomposition]]
+- [[Numerical Linear Algebra/PLU Decomposition]]
 - 
