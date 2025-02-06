@@ -19,4 +19,5 @@
 ### Misc. or side projects
 - Solve CTFs (Beginner's Quest)
 - Solve CSES and Atcoder DP
+- Make a 3D Moodie Game
 - Get atleast 8 SPI 
