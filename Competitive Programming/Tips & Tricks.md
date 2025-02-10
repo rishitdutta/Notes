@@ -18,4 +18,9 @@
 	freopen("input.txt","r",stdin);
 	freopen("output.txt","w",stdout);
 ```
-4. 
+4. Run code until there is input
+	```cpp 
+	while(cin>>x){
+		//code
+	}
+	```
