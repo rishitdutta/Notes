@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entrepreneurship/Project Submission.md",
+                "file": "MoodBoard Design Conference/Game Prototyping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Submission"
+              "title": "Game Prototyping"
             }
           }
         ]
@@ -173,12 +173,16 @@
   },
   "active": "41993b4f8d01d74b",
   "lastOpenFiles": [
+    "2025-02-13.md",
+    "MoodBoard Design Conference/Game Prototyping.md",
+    "2025-02-11.md",
+    "MoodBoard Design Conference",
+    "Entrepreneurship/Project Submission.md",
     "To do this sem.md",
     "Quick Notes/Help.md",
     "Quick Notes",
     "Quick Notes/Ideas.md",
     "Untitled.canvas",
-    "Entrepreneurship/Project Submission.md",
     "Quick Notes/To.md",
     "Quick Notes",
     "New folder",
@@ -201,14 +205,10 @@
     "Entrepreneurship/Disruption.md",
     "Entrepreneurship/Effectual Thinking vs Causal Thinking.md",
     "2025-01-30.md",
-    "Computer Architecture/Decoder.md",
-    "Competitive Programming/Dynamic Programming.md",
-    "Machine Learning/Matrix Operations in Python.md",
     "Computer Architecture",
     "DBMS",
     "Excalidraw",
     "Competitive Programming",
-    "Numerical Linear Algebra",
-    "Machine Learning"
+    "Numerical Linear Algebra"
   ]
 }
