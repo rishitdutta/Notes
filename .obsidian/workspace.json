@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MoodBoard Design Conference/Game Prototyping.md",
+                "file": "DBMS/Definitions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Game Prototyping"
+              "title": "Definitions"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "73fc8e0b68ad7cc2",
@@ -173,38 +174,38 @@
   },
   "active": "41993b4f8d01d74b",
   "lastOpenFiles": [
-    "2025-02-13.md",
+    "2025-02-23.md",
+    "DBMS/Definitions.md",
     "MoodBoard Design Conference/Game Prototyping.md",
+    "2025-02-16.md",
+    "Real Analysis/Cauchy Sequences.md",
+    "2025-02-15.md",
+    "Competitive Programming/Tips & Tricks.md",
+    "Untitled.md",
+    "Competitive Programming/Some Key Learnings.md",
+    "2025-02-13.md",
+    "Numerical Linear Algebra/PLU Decomposition.md",
+    "Numerical Linear Algebra/Methods of Solving a System of Linear Equations.md",
+    "Numerical Linear Algebra/LU Decomposition.md",
+    "To do this sem.md",
+    "Readme.md",
+    "Untitled.canvas",
     "2025-02-11.md",
     "MoodBoard Design Conference",
     "Entrepreneurship/Project Submission.md",
-    "To do this sem.md",
     "Quick Notes/Help.md",
     "Quick Notes",
     "Quick Notes/Ideas.md",
-    "Untitled.canvas",
     "Quick Notes/To.md",
     "Quick Notes",
     "New folder",
     "2025-02-10.md",
-    "Competitive Programming/Tips & Tricks.md",
-    "Readme.md",
     "2025-02-06.md",
     "Google Solutions Challenge/Ideas.md",
     "2025-02-01.md",
     "2025-01-24.md",
     "2025-02-09.md",
     "Google Solutions Challenge",
-    "2025-02-04.md",
-    "Competitive Programming/Some Key Learnings.md",
-    "2025-02-03.md",
-    "Entrepreneurship/Frameworks for Identifying Market Opportunities.md",
-    "Entrepreneurship/Job To Be Done Framework.md",
-    "Entrepreneurship/New Market Framework.md",
-    "Entrepreneurship/Low-End Market Framework.md",
-    "Entrepreneurship/Disruption.md",
-    "Entrepreneurship/Effectual Thinking vs Causal Thinking.md",
-    "2025-01-30.md",
     "Computer Architecture",
     "DBMS",
     "Excalidraw",
