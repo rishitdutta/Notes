@@ -1,0 +1,13 @@
+| **Ratio Category** | **Ratio Name**            | **Formula**                                        | **Interpretation**                                                                     |
+| ------------------ | ------------------------- | -------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| **Liquidity**      | Current Ratio             | Current Assets / Current Liabilities               | Measures short-term debt-paying ability; higher is better.                             |
+|                    | Quick Ratio               | (Current Assets - Inventory) / Current Liabilities | Measures immediate debt-paying ability; higher is better.                              |
+| **Activity**       | Inventory Turnover        | Cost of Goods Sold / Average Inventory             | Measures how efficiently inventory is managed; higher is generally better.             |
+|                    | Average Collection Period | Accounts Receivable / (Annual Credit Sales / 365)  | Measures how quickly credit sales are collected; lower is better.                      |
+|                    | Fixed Asset Turnover      | Sales / Net Fixed Assets                           | Measures efficiency of using fixed assets to generate sales; higher is better.         |
+|                    | Total Asset Turnover      | Sales / Total Assets                               | Measures efficiency of using all assets to generate sales; higher is generally better. |
+| **Profitability**  | Net Profit Margin         | Net Income / Sales                                 | Measures profitability relative to sales; higher is better.                            |
+|                    | Return on Assets (ROA)    | Net Income / Total Assets                          | Measures profitability relative to assets; higher is better.                           |
+|                    | Return on Equity (ROE)    | Net Income / Owner's Equity                        | Measures profitability relative to owner's investment; higher is better.               |
+| **Leverage**       | Debt Ratio                | Total Debt / Total Assets                          | Measures the proportion of debt financing; lower is generally better.                  |
+|                    | Times Interest Earned     | Operating Income / Interest Expense                | Measures ability to cover interest payments; higher is better.                         |
